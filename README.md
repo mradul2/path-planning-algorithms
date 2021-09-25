@@ -6,8 +6,23 @@ Analysis of Path Finding Algorithms based on their cost and time taken.
 
 ```bash
 git clone https://github.com/mradul2/path-planning-algorithms.git
-
+python3 algorithm.py
 ```
+
+### Available Algorithms
+
+- AstarAdmissible
+- AstarAdmissible2
+- AstarDiagonal
+- AstarDiagonal2
+- AstarEuclidean
+- AstarEuclidean2
+- AstarManhattan
+- AstarManhattan2
+- AstarNonAdmissible
+- AstarNonAdmissible2
+- Dijkstra
+- Dijkstra2
 
 ## Results
 
@@ -25,7 +40,53 @@ Execution Time taken by each of the algorithm (In seconds)
 
 ### Outputs
 
+#### Dijkstra.py
 
+![1](assets/1.png)
+
+#### Dijkstra2.py
+
+![2](assets/2.png)
+
+#### AstarAdmissible.py
+
+![3](assets/3.png)
+
+#### AstarAdmissible2.py
+
+![4](assets/4.png)
+
+#### AstarNonAdmissible.py
+
+![5](assets/5.png)
+
+#### AstarNonAdmissible2.py
+
+![6](assets/6.png)
+
+#### AstarDiagonal.py
+
+![7](assets/7.png)
+
+#### AstarDiagonal2.py
+
+![8](assets/8.png)
+
+#### AstarManhattan.py
+
+![9](assets/9.png)
+
+#### AstarManhattan2.py
+
+![10](assets/10.png)
+
+#### AstarEuclidean.py
+
+![11](assets/11.png)
+
+#### AstarEuclidean2.py
+
+![12](assets/12.png)
 
 ### Color code
 
