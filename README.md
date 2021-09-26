@@ -42,51 +42,51 @@ Execution Time taken by each of the algorithm (In seconds)
 
 #### Dijkstra.py
 
-![1](assets/1.png)
+<img src="assets/1.png" alt="1" width="450"/>
 
 #### Dijkstra2.py
 
-![2](assets/2.png)
+<img src="assets/2.png" alt="2" width="450"/>
 
 #### AstarAdmissible.py
 
-![3](assets/3.png)
+<img src="assets/3.png" alt="3" width="450"/>
 
 #### AstarAdmissible2.py
 
-![4](assets/4.png)
+<img src="assets/4.png" alt="4" width="450"/>
 
 #### AstarNonAdmissible.py
 
-![5](assets/5.png)
+<img src="assets/5.png" alt="5" width="450"/>
 
 #### AstarNonAdmissible2.py
 
-![6](assets/6.png)
+<img src="assets/6.png" alt="6" width="450"/>
 
 #### AstarDiagonal.py
 
-![7](assets/7.png)
+<img src="assets/7.png" alt="7" width="450"/>
 
 #### AstarDiagonal2.py
 
-![8](assets/8.png)
+<img src="assets/8.png" alt="8" width="450"/>
 
 #### AstarManhattan.py
 
-![9](assets/9.png)
+<img src="assets/9.png" alt="9" width="450"/>
 
 #### AstarManhattan2.py
 
-![10](assets/10.png)
+<img src="assets/10.png" alt="10" width="450"/>
 
 #### AstarEuclidean.py
 
-![11](assets/11.png)
+<img src="assets/11.png" alt="11" width="450"/>
 
 #### AstarEuclidean2.py
 
-![12](assets/12.png)
+<img src="assets/12.png" alt="12" width="450"/>
 
 ### Color code
 
